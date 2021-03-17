@@ -1,2 +1,0 @@
-# SistemKendali
-Sistem Kendali
