@@ -13,6 +13,3 @@ Sensor 1 dan 2 mendeteksi gelap : Motor kanan aktif, Motor kiri mati
 Sensor 3 dan 4 mendeteksi gelap : Kedua motor aktif
 Sensor 5 dan 6 mendeteksi gelap : Motor kanan mati, motor kiri aktif
 Semua sensor tidak mendeteksi gelap : Kedua motor mati
-
-Kesimpulan Praktikum
-
